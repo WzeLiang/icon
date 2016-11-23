@@ -2,3 +2,5 @@ Main()
 {
 	print:'hello world'
 }
+
+aaaa°¡°¡°¡°¡°¡°¡°¡°¡ ¶Ô·½Ë®µç·Ñ
